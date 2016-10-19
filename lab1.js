@@ -40,9 +40,9 @@ function judgement(theText){
         consoleLog();
     }*/
     else{
-        resultP.setAttribute("style","display:none");// resultP.style.display = none;
-        resultExp.setAttribute("style","display:none");// resultExp.style.display = none;
-        errorP.setAttribute("style","display:inline");// errorP.style.display = inline;
+        resultP.setAttribute("style","display:none");// resultP.style.display = none ;
+        resultExp.setAttribute("style","display:none");// resultExp.style.display = none ;
+        errorP.setAttribute("style","display:inline");// errorP.style.display = inline ;
     }
 }
 
