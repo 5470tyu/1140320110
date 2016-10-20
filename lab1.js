@@ -10,7 +10,7 @@ var patternOfExpression = /^(([a-zA-Z])|([0-9]+))([\+\*](([a-zA-Z])|([0-9]+)))*$
 var patternOfCommand = /^\!simplify ([a-zA-Z]=([0-9])+)+/;
 var patternOfQiudao = /^!d\/d [a-zA-Z]$/
 
-theButton.onclick = function getinput(){
+theButton.onclick =  function getinput(){
     inputText = inputLabel.value;
     //alert(inputText);
     judgement(inputText);
