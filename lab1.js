@@ -62,11 +62,11 @@ function splitment(str){
 
 function consoleLog(){
     // resultExp.value = theExpression;
-    if(patternOfLegal.test(theExpression) == false){
+    if( patternOfLegal.test(theExpression) == false){
         resultExpression.innerHTML = theExpression;
     }
     else{
-        resultExpression.innerHTML = eval(theExpression);
+         resultExpression.innerHTML = eval(theExpression);
     }
 
 }
