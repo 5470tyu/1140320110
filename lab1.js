@@ -92,6 +92,7 @@ function consoleLog(){
                     biaozhi = 1;
                 }
                 else{
+
                     strsplited[i] = "1";
                 }
             }
