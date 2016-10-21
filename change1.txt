@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 jiqiren
 mdwenjianbeishanle
@@ -5,3 +6,6 @@ mdwenjianbeishanle
 first change
 try
 554
+=======
+1ceshi
+>>>>>>> b2

@@ -1,8 +1,10 @@
-<<<<<<< HEAD
+
 try change b1
 lulala
-=======
+
 second change
 try4
 55
->>>>>>> c4
+
+cece2
+
