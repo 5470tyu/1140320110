@@ -5,6 +5,7 @@ var theButton = document.getElementById("theButton");
 var resultExp = document.getElementById("resultExpression");
 
 
+
 var patternOfLegal = /^[0-9+*]+$/;
 var patternOfExpression = /^(([a-zA-Z])|([0-9]+))([\+\*](([a-zA-Z])|([0-9]+)))*$/;
 var patternOfCommand = /^\!simplify ([a-zA-Z]=([0-9])+)+/;
